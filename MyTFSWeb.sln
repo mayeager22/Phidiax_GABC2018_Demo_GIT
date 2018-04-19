@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
+# Visual Studio 14 - Comment to document a change
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTFSWeb", "MyTFSWeb\MyTFSWeb.csproj", "{4AA26702-B60E-460B-B354-FD6ABF4CE5BA}"
