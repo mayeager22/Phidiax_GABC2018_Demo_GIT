@@ -12,3 +12,5 @@ Change made to demonstrate sync from VSTS (phidiax.visualstudio.com) to GitHub.
 Jeff made me do a demo (this is from github).
 
 Showing that a change from VTST will make it into GitHub.
+
+Making a change in VSTS while build is disabled.
