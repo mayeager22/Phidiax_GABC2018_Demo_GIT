@@ -20,3 +20,5 @@ Showing that a change from VSTS will make it into GitHub.
 >>>>>>> 8a990e444829ca60cd4dd065c7c89c4d63ef8b03
 
 This change was on github for GABC.
+
+This is not the Great American Beer Thingie
